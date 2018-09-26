@@ -12,7 +12,7 @@ return elements; }
 
 function f1()
 { 
-document.body.style.backgroundColor="pink";
+document.body.style.backgroundColor="black";
 }
 
 function f2()
