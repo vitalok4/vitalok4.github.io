@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>!DOCTYPE</title>
+   <meta charset="utf-8">
+
+<script src="lab3.js">
+function f1()
+{ 
+document.body.style.backgroundColor="aqua";
+}
+
+function f2()
+{ 
+document.getElementById("b1").style.color="blue";
+}
+<script/>
+</head>
+ <body>
+<div id="b1">
+<div id="b2">
+<img src=>
+
+</div>
+<div id="b3">
+<ol>
+<li><a href="lab1.html"> lab1 </a></li>
+<li><a href="lab2.html">lab2</a></li>
+<li><a href="lab3.html">lab3</a></li>
+<li><a href="lab4.html">lab4</a></li>
+<li><a href="v.html"> validator</a></li>
+<li><a href="m.html">modul</a></li>
+<li><a href="lab2javascript.html">lab2JavaScript</a></li>
+</ol>
+</div>
+<div id="b4">
+<center>
+Cоздать группу радиокнопок,смена значений в которой сопровождается изменениями цвета текста и фона текущего документа.Создайте обработку любого события объекта document появлением диалогового поля.
+</center> 
+     
+<form>
+     <p><b>Управление с помощью кнопок.</b></p>
+     <p><input name="k1" type="radio" value="nedzen" onclick="f1()">Изменение фона</p>
+     <p><input name="k1" type="radio" value="dzen" onclick="f2()">Изменение цвета текста</p>
+	<textarea rows="2" cols="30" name="po" id="d1"></textarea>
+<p><center><marquee behavior="alternate">Работа выполнена Любашевской Еленой</marquee>
+</form>
+</div>
+
+
+<div id="b6">&copy; Любашевська Олена , 2018
+</div>
+<div id="b7">
+</div>
+</div>
+</body>
+</html>
