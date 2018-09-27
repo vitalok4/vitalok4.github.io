@@ -17,5 +17,5 @@ $('b42').style.backgroundColor="red";
 
 function f6()
 { 
-document.getElementById("t25").style.color="blue";
+document.getElementById("b1").style.color="blue";
 }
