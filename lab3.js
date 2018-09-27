@@ -12,7 +12,7 @@ return elements; }
 
 function f5()
 { 
-$('b42').style.backgroundColor="black";
+$('b42').style.backgroundColor="red";
 }
 
 function f6()
