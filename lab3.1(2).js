@@ -10,12 +10,12 @@ elements.push(element);
 } 
 return elements; } 
 
-function f1()
+function f11()
 { 
 document.body.style.backgroundColor="pink";
 }
 
-function f2()
+function f22()
 { 
 document.getElementById("h1").style.color="blue";
 }
