@@ -17,5 +17,5 @@ document.body.style.backgroundColor="pink";
 
 function f22()
 { 
-document.getElementById("h1").style.color="blue";
+document.getElementById("d42").style.color="blue";
 }
