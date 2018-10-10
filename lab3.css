@@ -3,25 +3,25 @@
      background-image: url(rozy_v_vaze.png);
     }
 #b1{  margin: 10px;
-      background-color:red;
+ background-image: url(rozy_v_vaze.png);
     }
 
-.y1{  background-color: grey;
+.y1{   background-image: url(rozy_v_vaze.png);
       padding: 5px; 
     }
 #b3{ width:25%;
      float:left;
-background-color: green;
+ background-image: url(rozy_v_vaze.png);
     }
 #b4{ width:60%;
     float:left; 
-background-color: #666666;
+ background-image: url(rozy_v_vaze.png);
 font:bold 19pt/14pt Helvetica, sans-serif;  
     }
 #b5{ width:10%;
     float:left;
 
-background-color: green;
+ background-image: url(rozy_v_vaze.png);
     }
 
 #b6{ width:100%;
