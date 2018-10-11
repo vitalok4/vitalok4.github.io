@@ -1,27 +1,27 @@
 ﻿div{ border: 3px solid orange;
    
-     background-image: url(fon.png);
+     background-color:pink;
     }
 #b1{  margin: 10px;
- background-image: url();
+   background-color:pink;
     }
 
-.y1{   background-image: url();
+.y1{    background-color:pink;
       padding: 5px; 
     }
 #b3{ width:25%;
      float:left;
- background-image: url();
+   background-color:pink;
     }
 #b4{ width:60%;
     float:left; 
- background-image: url();
-font:bold 19pt/14pt Helvetica, sans-serif;  
+   background-color:pink;
+font:bold 10pt/7pt Helvetica, sans-serif;  
     }
 #b5{ width:10%;
     float:left;
 
- background-image: url();
+  background-color:pink;
     }
 
 #b6{ width:100%;
