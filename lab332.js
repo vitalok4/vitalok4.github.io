@@ -10,7 +10,7 @@ elements.push(element);
 } 
 return elements; }
 
-function f1(){
+function f11(){
 var a = parseFloat($('tx1').value);
 var b = parseFloat($('tx2').value);
 var c =parseFloat($('tx3').value);
@@ -22,7 +22,7 @@ min=c;
 $('tx4').value=min;
 }
 
-function f2(){
+function f22(){
 var a = parseFloat($('tx1').value);
 var b = parseFloat($('tx2').value);
 var c =parseFloat($('tx3').value);
