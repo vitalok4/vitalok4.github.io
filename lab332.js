@@ -45,4 +45,4 @@ function f1(){
  		else
  		{x1=10;}
 		}
-$('tx2').value=x1;}
+$('tx22').value=x1;}
