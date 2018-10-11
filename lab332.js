@@ -33,3 +33,16 @@ if (max < c)
 max=c;
 $('tx5').value=max;
 }
+function f1(){
+	a=parseFloat($('tx1').value);
+	if(a>0)
+		{ x1=a+1;}
+	else 
+ 		{
+		if(a<0)
+		{ x1=a-2;}
+
+ 		else
+ 		{x1=10;}
+		}
+$('tx2').value=x1;}
