@@ -12,7 +12,7 @@ return elements; }
 
 function f11()
 { 
-document.body.style.backgroundColor="pink";
+document.getElementById("d42").style.color.style.backgroundColor="pink";
 }
 
 function f22()
