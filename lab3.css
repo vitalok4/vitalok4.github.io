@@ -3,25 +3,25 @@
      background-image: url(fon.png);
     }
 #b1{  margin: 10px;
- background-image: url(fon.png);
+ background-image: url();
     }
 
-.y1{   background-image: url(fon.png);
+.y1{   background-image: url();
       padding: 5px; 
     }
 #b3{ width:25%;
      float:left;
- background-image: url(fon.png);
+ background-image: url();
     }
 #b4{ width:60%;
     float:left; 
- background-image: url(fon.png);
+ background-image: url();
 font:bold 19pt/14pt Helvetica, sans-serif;  
     }
 #b5{ width:10%;
     float:left;
 
- background-image: url(fon.png);
+ background-image: url();
     }
 
 #b6{ width:100%;
