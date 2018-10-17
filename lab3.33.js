@@ -10,7 +10,7 @@ elements.push(element);
 }
 return elements; }
 
-function f0()
+function f1()
 {
 N=parseInt($('tx1').value);
 F1=1;
@@ -25,4 +25,5 @@ $('tx4').value=$('tx4').value+F+' ';
 F1=F2;
 F2=F;
 }
+
 }
