@@ -10,7 +10,7 @@ elements.push(element);
 }
 return elements; }
 
-function f1()
+function f11()
 {
 N=parseInt($('tx1').value);
 F1=1;
