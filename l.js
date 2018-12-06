@@ -4,7 +4,7 @@ var g1=55;
 var r1=153;
 function f()
 {
-var x1=document.getElementById('b1');
+var x1=document.getElementById('b11');
 x1.style.left=(parseInt(x1.style.left)+70)+'px';
 x1.style.down=(parseInt(x1.style.top)+50)+'px';
 b1-=200;
