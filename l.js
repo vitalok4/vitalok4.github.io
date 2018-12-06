@@ -1,7 +1,7 @@
 ﻿var t;
-var b1=255;
-var g1=55;
-var r1=153;
+var b1=110;
+var g1=100;
+var r1=500;
 function f()
 {
 var x1=document.getElementById('b11');
