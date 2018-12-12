@@ -28,7 +28,7 @@ function f1()
 	$('tx4').value=sum;
 
 }
-function f3()
+function f2()
 {       A=parseFloat($('tx4').value);
 	B=parseFloat($('tx5').value);
 result='';
