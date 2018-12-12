@@ -29,19 +29,14 @@ function f1()
 
 }
 function f2()
-{       A=parseFloat($('tx4').value);
-	B=parseFloat($('tx5').value);
-result='';
-	for(var i=A; i<=B; i++)
-	
 {
-		
-for(var j=1; j<= i; j++)
-
+	A=parseFloat($('r1').value);
+	B=parseFloat($('r2').value);
+	result='';
+	for(var i=A; i<=B; i++)
+	{
+		for(var j=1; j<= i; j++)
 			result=result+i;
-	
-}
-	
-$('tx6').value=result;
-
+	}
+	$('r4').value=result;
 }
