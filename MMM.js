@@ -28,3 +28,20 @@ function f1()
 	$('tx4').value=sum;
 
 }
+function f3()
+{       A=parseFloat($('tx4').value);
+	B=parseFloat($('tx5').value);
+result='';
+	for(var i=A; i<=B; i++)
+	
+{
+		
+for(var j=1; j<= i; j++)
+
+			result=result+i;
+	
+}
+	
+$('tx6').value=result;
+
+}
