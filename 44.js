@@ -18,27 +18,44 @@ return elements; }
 
 
 function f(x)
-	
-		{
-		
-			var st = "0123456789.";
-		
-			var mass = x.split('.');
-		f1="True";
-if(mass.length!=2)
-f1="False";
-for(i=0; i<x.length;i++)
+
 {
-tt.charAt(i);
-if(str.indexOf(tt)==-1)
-f1="False";
-mass[0]
-if(parseInt(mass[0])>24)
-f1="False";
-mass[1]
-if(parseInt(mass[1])>60)
-f1="False";
-				return f1;
 		
+var str = "0123456789.";
+		
+var mass = x.split('.');
+
+f1="True";
+
+if(mass.length!=2)
+
+f1="False";
+
+
+for(i=0; i<x.length;i++)
+
+{
+
+tt=x.charAt(i);
+
+if(str.indexOf(tt)==-1)
+
+f1="False";
 
 }
+//mass[0]
+
+if(parseInt(mass[0])>24)
+
+f1="False";
+
+//mass[1]
+
+if(parseInt(mass[1])>60)
+
+f1="False";
+				
+return f1;
+		
+}
+
